@@ -13,10 +13,3 @@ Também sou músico, toco guitarra e contra-baixo, apesar de ultimamente o viol�
 
 Por fim quero mencionar que tambem tenho gostado muito de ler. Desde de 2023 eu tenho lido pelo menos 1 livro por mês, e esse ano deve ser bem mais que isso. Gosto de fantasia medieval e tambem clássicos do realismo, seja Machado de Assis ou Dostoiévski.
 
-<span align="center">
-
-  [![Joao's github stats](https://github-readme-stats.vercel.app/api?username=hereisjohnny2&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![hereisjohnny2's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hereisjohnny2&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-</span>
-
