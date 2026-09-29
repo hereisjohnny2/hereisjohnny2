@@ -5,11 +5,13 @@
   </h1>
 </div>
 
-Sou um desenvolvedor web e um entusiasta quando se trata de Construção de APIs, Integração de Serviços e Integração com Bancos de Dados Relacionais e Não-Relacionais, criando através destas ferramentas experiências intuitivas e eficientes para usuários e outros desenvolvedores.
+Meu nome é João Marcelo e sou desenvolvedor. Ou melhor, hoje trabalho como cientista de dados em uma multinacional chamada Fugro, onde meu trabalho é desenvolver aplicações que ajudam na analise e no processamento de dados geológicos.
 
-Sou organizado, empenhado e um autodidata nas artes da programação. Apaixonado por cinema, música e livros e aficionado por ficção científica e tudo dos anos 80. Sou principalmente um desenvolvedor back-end, mas também me interesso por front-end.
+Além de desenvolvedor/cientista de dados também sou entusiasta de carros, principalmente de hondinhas pre-2008. Tenho um Honda Civic 1995 ex, vermelhão, turbo e acertado com um FuelTech. Gosto de acompanhar corridas da WEC e da IMSA desde de 2026.
 
-Vamos construir algo incrível juntos!
+Também sou músico, toco guitarra e contra-baixo, apesar de ultimamente o violão de nylon ter sido meu melhor parceiro. Acho que é porque ele ja está, sempre disponível, sem precisar ligar nada. Então toco uma samba, ou uma bossa, as vezes uma MPB ou Jazz...
+
+Por fim quero mencionar que tambem tenho gostado muito de ler. Desde de 2023 eu tenho lido pelo menos 1 livro por mês, e esse ano deve ser bem mais que isso. Gosto de fantasia medieval e tambem clássicos do realismo, seja Machado de Assis ou Dostoiévski.
 
 <span align="center">
 
